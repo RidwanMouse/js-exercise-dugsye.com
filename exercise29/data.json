@@ -1,0 +1,47 @@
+[  {
+    "id" : 1,
+    "name": "Ridwan",
+    "city": "borama",
+
+    "orders":[
+        {"id": 1, "product": "laptop", "queantity": 1},
+        {"id": 2, "product": "mouse", "queantity": 2}
+   
+    ]
+},
+
+{
+    "id" : 2,
+    "name": "mohamed",
+    "city": "berbera",
+
+    "orders":[
+        {"id": 1, "product": "desktop", "queantity": 3},
+        {"id": 2, "product": "mouse", "queantity": 3}
+   
+    ]
+},
+
+
+{
+
+
+"id" : 4,
+    "name": "ahmed",
+    "city": "hargaysa",
+
+    "orders":[
+        {"id": 1, "product": "mobile", "queantity": 6},
+        {"id": 2, "product": "charge", "queantity": 6}
+   
+    ]
+
+}
+
+
+
+]
+
+
+
+
